@@ -1,8 +1,0 @@
-*, *::before, *::after {
-  box-sizing: border-box;
-}
-
-body{
-  margin: 0;
-  background: linear-gradient(to right, #1dfdef,#fdaf1d );
-}
